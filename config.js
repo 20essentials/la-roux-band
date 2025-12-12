@@ -1,0 +1,23 @@
+export const nameBand = 'LA ROUX ';
+export let nameSongs = [
+	"BULLETPROOF", /*1*/
+	"IN FOR THE KILL", /*2*/
+	"I'M NOT YOUR TOY", /*3*/
+	"LET ME DOWN GENTLY", /*4*/
+	"DO YOU FEEL", /*5*/
+	"TROPICAL CHANCER", /*6*/
+	"UPTIGHT DOWNTOWN", /*7*/
+	"KISS AND NOT TELL", /*8*/
+	"SEXOTHEQUE", /*9*/
+	"DON'T CRY OUT", /*10*/
+	"SILENT PARTNER", /*11*/
+	"OTHERSIDE", /*12*/
+	"GULLIBLE FOOL", /*13*/
+	"21ST CENTURY", /*14*/
+	"AUTOMATIC DRIVER", /*15*/
+	"THE FEELING", /*16*/
+	"PARADISE IS YOU", /*17*/
+	"REFLECTIONS ARE PROTECTIONS", /*18*/
+	"AS IF BY MAGIC", /*19*/
+	"COVER MY EYES", /*20*/
+]
